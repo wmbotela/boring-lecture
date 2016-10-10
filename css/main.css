@@ -1,12 +1,9 @@
-#header{
-  font-weight: normal;
-  font-style: italic;
-  align-content: center;
+.intro{
+  text-align: center;
+  font-style:italic;
+  
 
 }
-p.intro{
-
-}
-img.intro{
-
+.body{
+  font-family: sans-serif;
 }
